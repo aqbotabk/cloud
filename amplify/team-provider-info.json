@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "cloud3c5013e5": {}
+      },
+      "api": {
+        "cloud": {}
+      },
+      "storage": {
+        "s31783efaa": {}
       }
     }
   }
